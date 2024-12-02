@@ -1,1 +1,1 @@
-<h2>AIM: To study Metacentre and stability of circular wooden block.</h2>
+<h2>AIM: To study Metacentre and stability of circular block.</h2>
